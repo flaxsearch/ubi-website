@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://o19s.github.io/ubi-website/</loc>
+         <loc>https://www.ubisearch.dev/</loc>
          <lastmod>2024-11-09</lastmod>
     </url>
     <url>
-         <loc>https://o19s.github.io/ubi-website/news/</loc>
+         <loc>https://www.ubisearch.dev/news/</loc>
          <lastmod>2024-11-09</lastmod>
     </url>
     <url>
-         <loc>https://o19s.github.io/ubi-website/standard/</loc>
+         <loc>https://www.ubisearch.dev/standard/</loc>
          <lastmod>2024-11-09</lastmod>
     </url>
     <url>
-         <loc>https://o19s.github.io/ubi-website/tools/</loc>
+         <loc>https://www.ubisearch.dev/tools/</loc>
          <lastmod>2024-11-09</lastmod>
     </url>
 </urlset>
